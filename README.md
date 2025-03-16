@@ -19,6 +19,6 @@
 ## Minnhas redes sociais:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-malosti-1941971b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-violet?style=for-the-badge&color=9400d3)](https://diogo-malosti.vercel.app/index.html)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo_malosti/profilecard/?igsh=a3FtOW44cDM1djU0)
+[![Instagram](https://img.shields.io/badge/Instagram-14354C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo_malosti/profilecard/?igsh=a3FtOW44cDM1djU0)
 <br clear="both">
 
